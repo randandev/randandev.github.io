@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+docs/CNAME
+.DS_Store
+.vscode/settings.json
+docs/.DS_Store
