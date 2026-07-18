@@ -1,6 +1,6 @@
 :root {
     --wrapper-height: 80vh;
-    --font-family: courier;
+    --font-family: monospace;
     --header-color:darkred;
     --bg-color: azure;
     --body-bg: palegoldenrod;
